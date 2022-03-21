@@ -7,3 +7,7 @@
  3. 包月、永久流量两种收费方式
  4. windows、安卓、iOS、MAC 全平台支持
  5. 支持NETFLIX HBO等流媒体解锁
+ 6. 稳定运行6年好评无数
+
+## 测试图
+![test](https://github.com/ctyjc/cty/blob/main/ctytest.jpg)
